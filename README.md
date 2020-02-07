@@ -4,7 +4,7 @@
 
 ## Introduction
 
-By this point in the program, you should have learned how to perform a variety of operations using the Pandas library.
+ By this point in the program, you should have learned how to perform a variety of operations using the Pandas library.
 
 In this lab, again you will be working on [main.ipynb](your-code/main.ipynb). Read the instructions and questions in the Jupyter notebook and provide your answers. Make sure to test your answers in Python.
 
